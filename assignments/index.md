@@ -5,8 +5,8 @@
 
 ### TryhackMe (signup for a free account to complete the labs):
 
-* https://tryhackme.com/module/linux-fundamentals
+* [linux-fundamentals](https://tryhackme.com/module/linux-fundamentals)
 
 ### HackTheBox (signup for a free account to complete the labs):
 
-* https://academy.hackthebox.eu/module/details/18
+* [Linux basic](https://academy.hackthebox.eu/module/details/18)
