@@ -2,6 +2,10 @@
 
 ---
 
+### [Assignments](assignments/index.md)
+
+---
+
 ## Module II
 
 ### Tools
