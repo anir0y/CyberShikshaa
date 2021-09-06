@@ -1,6 +1,6 @@
 #!/bin/zsh
 
-# git pull
+git pull
 
 read -p "What's new?:  " opt
 # tree=$(tree -tf --noreport -I '*~' --charset ascii $1 | sed -e 's/| \+/  /g' -e 's/[|`]-\+/ */g' -e 's:\(* \)\(\(.*/\)\([^/]\+\)\):\1[\4](\2):g')
