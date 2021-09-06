@@ -18,6 +18,6 @@
 
 |Date | Topic | Starts on |Completed on| Link|Remarks|
 |---|---|---|---|---|---|
-|SEP 06 2021|Understanding the network security|SEP 06| |link|n/a|
+|SEP 06 2021|Cryptologu|SEP 06| |[link](https://github.com/anir0y/CyberShikshaa/tree/main/module-II/Cryptology)|n/a|
 
 
