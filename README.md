@@ -10,7 +10,7 @@
 
 ### Tools
 
-* Encryption Script [link](module-II/encryption)
+* Encryption Script [link](https://github.com/anir0y/CyberShikshaa/tree/main/module-II/encryption)
 
 ---
 
