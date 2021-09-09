@@ -3,7 +3,9 @@
 ---
 
 ### [Assignments](assignments/index.md)
-
+### [References](ref/index.md)
+### [Reading Links](ref/reading.md)
+### [Github tools links](ref/tools.md)
 ---
 
 ## Module II
@@ -20,5 +22,6 @@
 |---|---|---|---|---|---|
 |SEP 06 2021|Cryptologu|SEP 06| |[link](https://github.com/anir0y/CyberShikshaa/tree/main/module-II/Cryptology)|n/a|
 |SEP 07 2021|Web Fundamentals| SEP 07| [link](web-technology)|n/a|
+|SEP 08 2021|Web Fundamental | SEP 10| [link](https://github.com/anir0y/CyberShikshaa/tree/main/module-II/dvwa)|writing basic PHP Scripts/automate attacks|
 
 
