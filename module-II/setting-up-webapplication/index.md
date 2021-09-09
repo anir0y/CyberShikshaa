@@ -13,43 +13,54 @@ LAMP stack is stands for:
 
 # 2 : download the web-application code.
 
-you can download the code from this GitHub Repo
+you can download the code from this [GitHub Repo](https://github.com/anir0y/arishti-01)
 
 # 3 : configuration
 
 ## MySql
 
-* create user with password:
+```sql
 
-`CREATE USER 'dbadmin'@localhost IDENTIFIED BY 'dbadmin@123';`
+# create user with password
 
-* create db:
+CREATE USER 'dbadmin'@localhost IDENTIFIED BY 'dbadmin@123';
+
+# create db:
 
 CREATE DATABASE IF NOT EXISTS 'users' DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
 
-* use the db:
+# select DB
 
 use `users`;
 
-* grant our user privileges
+# grant our user privileges
 
-`GRANT ALL PRIVILEGES ON user.* to 'dbadmin'@'localhost'`
+GRANT ALL PRIVILEGES ON user.* to 'dbadmin'@'localhost'
 
-* creating tables:
+# creating tables:
 
-`CREATE TABLE IF NOT EXISTS `userlogin` (
+CREATE TABLE IF NOT EXISTS `userlogin` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `username` varchar(200) NOT NULL,
   `password` varchar(33) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;`
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
 
-* insert values:
-` INSERT INTO `userlogin` (`id`, `username`, `password`)VALUES (99, 'mentor', 'a1857b83457cfef98da22fefa2fdd3ba');`
+# insert values:
+
+INSERT INTO `userlogin` (`id`, `username`, `password`)VALUES (99, 'mentor', 'a1857b83457cfef98da22fefa2fdd3ba');
+INSERT INTO `userlogin` (`id`, `username`, `password`)VALUES (1, 'admin', 'a1857b83457cfef98da22fefa2fdd3ba');
+```
 
 ### PHP
 
 * open `dbconf.php` add the creds:
 
-`dbadmin`,`dbadmin`,`dbusers` [username,password,db]
+````php
+# old
+new mysqli("127.0.0.1", "useradm", "useradm", "userdb")
 
+# new
+new mysqli("127.0.0.1", "dbadmin", "dbadmin", "users")
+
+```
