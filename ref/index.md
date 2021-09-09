@@ -14,8 +14,7 @@
 
 ### Labs
 
-|Labs | Link| details|
-|---|---|---|
+
 
 ---
 
