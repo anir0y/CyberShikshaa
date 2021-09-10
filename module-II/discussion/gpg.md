@@ -20,9 +20,11 @@
 
 `gpg --import name.asc` # you have to donwload the `pgp/asc key` of your friends. 
 
+>> this is my key [keybase](https://keybase.io/anir0y/pgp_keys.asc?fingerprint=c2dd925ae4ea4b4b64f30522ea606f142cbcafd7) download and save it as key.asc then you can import it using `gpg --import key.asc`
+
 ### encrypt
 
-`gpg --encrypt --armour -r 'email' filename
+`gpg --encrypt --armour -r 'email' filename`
 
 ### decrypt 
 
