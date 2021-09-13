@@ -34,8 +34,12 @@
 |SEP 07 2021|Web Fundamentals| SEP 07|SEP 10|[link](web-technology)|Cont.|
 |SEP 08 2021|Web Fundamental | SEP 08|SEP 10|[link](https://github.com/anir0y/CyberShikshaa/blob/main/module-II/setting-up-webapplication/index.md)|writing basic PHP Scripts/automate attacks|
 |SEP 08 2021|Web Fundamental | SEP 08|SEP 08|[link](https://github.com/anir0y/CyberShikshaa/blob/main/module-II/dvwa/brute-force/index.md)|dvwa-bruteforce|
+<<<<<<< HEAD
 |SEP 13 2021|OWASP | SEP 13| SEP 13| [link](https://github.com/anir0y/CyberShikshaa/blob/main/module-II/sep1021/index.md)|
 
+=======
+|SEP 10 2021|Cryptology| SEP 10| SEP 10| [link](https://github.com/anir0y/CyberShikshaa/blob/main/module-II/discussion/gpg.md)|GPG fundamentals|
+>>>>>>> df3a5d80940c735ccfb1da90fe340286c5c141ca
 
 
 
