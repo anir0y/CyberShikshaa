@@ -1,7 +1,17 @@
 ![img](img/header.png)
 
 ---
+## upcoming : [mobile security]
 
+* https://owasp.org/www-project-mobile-security/
+* https://owasp.org/www-project-mobile-security-testing-guide/
+* https://owasp.org/www-project-mobile-top-10/
+* https://developer.android.com/guide/platform
+* https://github.com/MobSF/Mobile-Security-Framework-MobSF
+* Doc: https://mobsf.github.io/docs/#/
+
+
+---
 ### [Assignments](assignments/index.md)
 ### [References](ref/index.md)
 ### [Reading Links](ref/reading.md)
@@ -24,6 +34,8 @@
 |SEP 07 2021|Web Fundamentals| SEP 07|SEP 10|[link](web-technology)|Cont.|
 |SEP 08 2021|Web Fundamental | SEP 08|SEP 10|[link](https://github.com/anir0y/CyberShikshaa/blob/main/module-II/setting-up-webapplication/index.md)|writing basic PHP Scripts/automate attacks|
 |SEP 08 2021|Web Fundamental | SEP 08|SEP 08|[link](https://github.com/anir0y/CyberShikshaa/blob/main/module-II/dvwa/brute-force/index.md)|dvwa-bruteforce|
+|SEP 13 2021|OWASP | SEP 13| SEP 13| [link](https://github.com/anir0y/CyberShikshaa/blob/main/module-II/sep1021/index.md)|
+
 
 
 
