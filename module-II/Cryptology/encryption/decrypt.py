@@ -9,8 +9,8 @@ this one decrypts 'enc-b64.txt' file.
 print(banner)
 
 # ask for password:
-password=input("Your Key Please: ")
-
+#password=input("Your Key Please: ")
+password="MYVErySecurePassw0rd"
 # change b64 to aes data
 os.system("cat enc-b64.txt | base64 -d > enc.aes")
 

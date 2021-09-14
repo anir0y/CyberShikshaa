@@ -11,9 +11,9 @@ on same dir.
 print(banner)
 
 # we take password here
-password = input("Enter Your Password: ")
+#password = input("Enter Your Password: ")
 # bufferSize = 64*1024
-
+password ="MYVErySecurePassw0rd"
 # encryptionProcess
 pyAesCrypt.encryptFile("input.txt", "enc.aes", password)
 
