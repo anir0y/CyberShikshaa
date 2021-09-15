@@ -29,7 +29,8 @@
 |SEP 08 2021|Web Fundamental | SEP 08|SEP 08|[link](https://github.com/anir0y/CyberShikshaa/blob/main/module-II/dvwa/brute-force/index.md)|dvwa-bruteforce|
 |SEP 13 2021|OWASP | SEP 13| SEP 13| [link](https://github.com/anir0y/CyberShikshaa/blob/main/module-II/sep1021/index.md)|
 |SEP 10 2021|Cryptology| SEP 10| SEP 10| [link](https://github.com/anir0y/CyberShikshaa/blob/main/module-II/discussion/gpg.md)|GPG fundamentals|
-|SEP 14 2021| Mobile Security | Sep 14| Sep 14| [link](https://github.com/anir0y/CyberShikshaa/blob/main/module-II/sep1421/index.md)
+|SEP 14 2021| Mobile Security | Sep 14| Sep 14| [link](https://github.com/anir0y/CyberShikshaa/blob/main/module-II/sep1421/index.md)||
+|SEP 15 2021| Data Centre Security & Cloud Computing| Sep 15| Sep 15| [links](https://github.com/anir0y/CyberShikshaa/blob/main/module-II/sep1521/index.md)| Could Computing|
 
 
 
